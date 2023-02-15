@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1077892951218",
+    "project_id": "streamcom-13d68",
+    "storage_bucket": "streamcom-13d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077892951218:android:603e7a60750227c8472dab",
+        "android_client_info": {
+          "package_name": "com.example.streamcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077892951218-gmkbmedgserm6n4gbvo2jvjqk3roaneg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3vPOnHurPo0oSoNYbbgNQq5Tvb7Tcboc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077892951218-dcbrf5fis7ig1c5mukd5lcpiohlie5pb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077892951218-o8gkhcc4c7sa9e050f5glr77ejh2laos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.streamcom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
