@@ -5,6 +5,7 @@ import 'package:provider/provider.dart';
 import 'package:streamcom/controller/auth_methods.dart';
 import 'package:streamcom/models/utils/colors.dart';
 import 'package:streamcom/providers/user_provider.dart';
+import 'package:streamcom/view/screens/home_screen.dart';
 import 'package:streamcom/view/screens/landing_screen.dart';
 import 'package:streamcom/view/screens/login_screen.dart';
 import 'package:streamcom/view/screens/signup_screen.dart';
@@ -48,6 +49,7 @@ class MyApp extends StatelessWidget {
         LoginScreen.routeName: (context) => const LoginScreen(),
         SignupScreen.routeName: (context) => const SignupScreen(),
         HomeScreen.routeName: (context) => const HomeScreen(),
+        // GoLiveScreen.routeName: (context) => const GoLiveScreen(),
       },
       home: FutureBuilder(
         future: AuthMethods()
