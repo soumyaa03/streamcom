@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:streamcom/controller/auth_methods.dart';
 import 'package:streamcom/responsive/responsive.dart';
+import 'package:streamcom/view/screens/home_screen.dart';
 import 'package:streamcom/view/widgets/custom_button.dart';
 import 'package:streamcom/view/widgets/custom_textfield.dart';
 import 'package:streamcom/view/widgets/loading.dart';
